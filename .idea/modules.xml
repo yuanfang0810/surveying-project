@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/surveying-project.iml" filepath="$PROJECT_DIR$/surveying-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-management/surveying-project-api/surveying-project-api.iml" filepath="$PROJECT_DIR$/surveying-project-management/surveying-project-api/surveying-project-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-common/surveying-project-common.iml" filepath="$PROJECT_DIR$/surveying-project-common/surveying-project-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-config/surveying-project-config.iml" filepath="$PROJECT_DIR$/surveying-project-config/surveying-project-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-consumer-management/surveying-project-consumer-backup/surveying-project-consumer-backup.iml" filepath="$PROJECT_DIR$/surveying-project-consumer-management/surveying-project-consumer-backup/surveying-project-consumer-backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-consumer-management/surveying-project-consumer-management.iml" filepath="$PROJECT_DIR$/surveying-project-consumer-management/surveying-project-consumer-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-eureka-management/surveying-project-eureka-6082/surveying-project-eureka-6082.iml" filepath="$PROJECT_DIR$/surveying-project-eureka-management/surveying-project-eureka-6082/surveying-project-eureka-6082.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-eureka-management/surveying-project-eureka-6083/surveying-project-eureka-6083.iml" filepath="$PROJECT_DIR$/surveying-project-eureka-management/surveying-project-eureka-6083/surveying-project-eureka-6083.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-eureka-management/surveying-project-eureka-management.iml" filepath="$PROJECT_DIR$/surveying-project-eureka-management/surveying-project-eureka-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-management/surveying-project-management.iml" filepath="$PROJECT_DIR$/surveying-project-management/surveying-project-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-management/surveying-project-mapper/surveying-project-mapper.iml" filepath="$PROJECT_DIR$/surveying-project-management/surveying-project-mapper/surveying-project-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-management/surveying-project-model/surveying-project-model.iml" filepath="$PROJECT_DIR$/surveying-project-management/surveying-project-model/surveying-project-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-provider-management/surveying-project-provider-backup/surveying-project-provider-backup.iml" filepath="$PROJECT_DIR$/surveying-project-provider-management/surveying-project-provider-backup/surveying-project-provider-backup.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-provider-management/surveying-project-provider-management.iml" filepath="$PROJECT_DIR$/surveying-project-provider-management/surveying-project-provider-management.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-management/surveying-project-service/surveying-project-service.iml" filepath="$PROJECT_DIR$/surveying-project-management/surveying-project-service/surveying-project-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/surveying-project-zuul/surveying-project-zuul.iml" filepath="$PROJECT_DIR$/surveying-project-zuul/surveying-project-zuul.iml" />
+    </modules>
+  </component>
+</project>

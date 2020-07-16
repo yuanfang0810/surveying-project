@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="surveying-project-eureka-6082" />
+        <module name="surveying-project-common" />
+        <module name="surveying-project-zuul" />
+        <module name="surveying-project-api" />
+        <module name="surveying-project-service" />
+        <module name="surveying-project-eureka-6083" />
+        <module name="surveying-project-model" />
+        <module name="surveying-project-config" />
+        <module name="surveying-project-provider-backup" />
+        <module name="surveying-project-mapper" />
+        <module name="surveying-project-consumer-backup" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="surveying-project" target="1.8" />
+      <module name="surveying-project-api" target="1.8" />
+      <module name="surveying-project-common" target="1.8" />
+      <module name="surveying-project-config" target="1.8" />
+      <module name="surveying-project-consumer-backup" target="1.8" />
+      <module name="surveying-project-consumer-management" target="1.8" />
+      <module name="surveying-project-eureka-6081" target="1.8" />
+      <module name="surveying-project-eureka-6082" target="1.8" />
+      <module name="surveying-project-eureka-6083" target="1.8" />
+      <module name="surveying-project-eureka-management" target="1.8" />
+      <module name="surveying-project-management" target="1.8" />
+      <module name="surveying-project-mapper" target="1.8" />
+      <module name="surveying-project-model" target="1.8" />
+      <module name="surveying-project-provider-backup" target="1.8" />
+      <module name="surveying-project-provider-management" target="1.8" />
+      <module name="surveying-project-service" target="1.8" />
+      <module name="surveying-project-zuul" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>surveying-project</artifactId>
+        <groupId>com.aaa.hou</groupId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>surveying-project-eureka-management</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>surveying-project-eureka-6081</module>
+        <module>surveying-project-eureka-6083</module>
+        <module>surveying-project-eureka-6082</module>
+    </modules>
+
+
+</project>
